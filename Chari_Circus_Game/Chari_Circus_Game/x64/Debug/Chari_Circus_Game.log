@@ -1,0 +1,98 @@
+﻿  BackGround.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\BackGround.cpp(6,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\BackGround.cpp(71,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\BackGround.cpp(72,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BackgroundManager.cpp
+  BitMap.cpp
+  BitMapManager.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\BitMapManager.cpp(61,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chari_Circus_Game.cpp
+  FireObstacle.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(23,35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(31,83): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(32,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(33,52): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(34,52): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(81,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireObstacle.cpp(91,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FireRing.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(28,70): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(109,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(113,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(136,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(137,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(143,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\FireRing.cpp(144,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameManager.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\GameManager.cpp(19,47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameObject.cpp
+  Goal.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Goal.cpp(5,22): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Goal.cpp(6,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InGame_Interface.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(40,63): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(53,194): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(53,172): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(55,83): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(55,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(55,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(57,84): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(57,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(57,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(59,84): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(59,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(59,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(61,84): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(61,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(61,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(66,208): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(66,173): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(71,133): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(71,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(73,116): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(73,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(73,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(81,39): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(82,45): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Cash.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Item_Cash.cpp(8,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(21,27): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(23,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(27,9): warning C4552: '<=': 식의 결과가 사용되지 않습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(35,17): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(88,34): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(90,34): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(108,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(109,24): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(129,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(152,49): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(153,49): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(155,32): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(156,31): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(157,51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Player.cpp(158,51): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Select_Interface.cpp
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(7,131): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(7,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(9,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(10,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(23,34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(24,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(61,44): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(72,49): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(87,186): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(87,164): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(88,184): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(88,162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(89,191): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(89,162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(90,196): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(90,162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(91,196): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(91,162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(92,196): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Select_Interface.cpp(92,162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+E:\학원수업\Window Api\Chari_Circus_Game\Chari_Circus_Game\Chari_Circus_Game.cpp(107): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Chari_Circus_Game.vcxproj -> E:\학원수업\Window Api\Chari_Circus_Game\x64\Debug\Chari_Circus_Game.exe

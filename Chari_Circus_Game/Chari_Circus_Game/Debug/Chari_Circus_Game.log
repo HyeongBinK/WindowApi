@@ -1,0 +1,28 @@
+﻿  Chari_Circus_Game.cpp
+  GameManager.cpp
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\GameManager.cpp(19,47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  InGame_Interface.cpp
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(40,63): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(53,194): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(53,172): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(55,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(55,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(57,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(57,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(59,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(59,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(61,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(61,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(66,208): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(66,173): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(71,133): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(71,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(73,86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(73,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(81,39): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\InGame_Interface.cpp(82,45): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item_Cash.cpp
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\Item_Cash.cpp(8,23): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+D:\학원수업\진행중인문제\Chari_Circus_Game\Chari_Circus_Game\Chari_Circus_Game.cpp(107): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Chari_Circus_Game.vcxproj -> D:\학원수업\진행중인문제\Chari_Circus_Game\Debug\Chari_Circus_Game.exe

@@ -1,0 +1,6 @@
+﻿  GameManager.cpp
+D:\학원수업\진행중인문제\MatchUpCardGame\MatchUpCardGame\GameManager.cpp(27,7): warning C4101: 'BackImageRect' :참조되지 않은 지역 변수입니다.
+D:\학원수업\진행중인문제\MatchUpCardGame\MatchUpCardGame\GameManager.cpp(84,39): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  MatchUpCardGame.cpp
+  코드를 생성하고 있습니다...
+  MatchUpCardGame.vcxproj -> D:\학원수업\진행중인문제\MatchUpCardGame\Debug\MatchUpCardGame.exe
